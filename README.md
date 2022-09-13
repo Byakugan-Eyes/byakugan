@@ -1,14 +1,11 @@
-# Shinigami Eyes
+# Byakugan
 
-A Chrome/Firefox addon that highlights transphobic/anti-LGBT and trans-friendly subreddits/users/facebook pages/groups with different colors.
+A refreshing take on [Shinigami Eyes](https://github.com/shinigami-eyes/shinigami-eyes)
 
-For more information: [Shinigami Eyes website](https://shinigami-eyes.github.io/)
+Goals are:
+- to expand issues that a link can be flagged for, not just for pro-trans and anti-trans links
+- make the codebase modular to allow for easy expansion for formatting on websites
+- make the process of adding websites to the central list more transparent and community driven
+- incorporate some of the good ideas mentioned in the [Community Eyes Readme](https://github.com/SneakyBastardSword/community-eyes/blob/master/README.md) which hasn't been developed on
 
-* [Shinigami Eyes for Chrome](https://chrome.google.com/webstore/detail/ijcpiojgefnkmcadacmacogglhjdjphj/)
-* [Shinigami Eyes for Firefox](https://addons.mozilla.org/en-US/firefox/addon/shinigami-eyes/)
 
-
-
-![Screenshot](https://raw.githubusercontent.com/shinigami-eyes/shinigami-eyes/master/images/preview.png)
-
-Follow us on Twitter: [@ShinigamiEyesT](https://www.twitter.com/ShinigamiEyesT)
